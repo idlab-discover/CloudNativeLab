@@ -6,5 +6,5 @@ For more information, take a look at https://practicum.cloudnativelab.ilabt.imec
 
 This repository is only used for documentation and support.
 
-* Take a look at [the wiki](https://github.com/idlab-discover/CloudNativeLab/wiki) for more information on how to use Tengu labs.
+* Take a look at [the wiki](https://github.com/idlab-discover/CloudNativeLab/wiki) for more information on how to use CloudNativeLab.
 * If you have any questions, [please create an issue](https://github.com/idlab-discover/CloudNativeLab/issues).
